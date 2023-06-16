@@ -1,4 +1,4 @@
-#include i<stdio.h>
+#include <stdio.h>
 /**
  * Description:main - Print the size of various
  * types onthe computer.
