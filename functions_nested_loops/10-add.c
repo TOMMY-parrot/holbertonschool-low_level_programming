@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Return: Always 0 (Success)
+ * add - a function to add integer and their result
+ * @a: first number
+ * @b : last number
+ * Return: a + b
  */
 int add(int a, int b)
 {
